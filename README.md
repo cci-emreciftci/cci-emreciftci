@@ -14,6 +14,8 @@
 ![Azure](https://img.shields.io/badge/-azure-05122A?style=for-the-badge&logo=microsoft)&nbsp;
 ![Fastlane](https://img.shields.io/badge/-fastlane-05122A?style=for-the-badge&logo=fastlane)&nbsp;
 ![Jenkins](https://img.shields.io/badge/-jenkins-05122A?style=for-the-badge&logo=jenkins)&nbsp;
+![JIRA](https://img.shields.io/badge/-jira-05122A?style=for-the-badge&logo=jira)&nbsp;
+![Android](https://img.shields.io/badge/-android-05122A?style=for-the-badge&logo=android)&nbsp;
 
 <hr class="dotted">
 
