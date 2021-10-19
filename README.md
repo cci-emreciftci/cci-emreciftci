@@ -1,3 +1,8 @@
+<h1 align="center">Hi 👋, I'm Emre</h1>
+<h3 align="center">Software Engineer</h3>
+
+<hr class="dotted">
+
 ### 🛠 Tech Stack
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![Swift](https://img.shields.io/badge/Swift-05122A?style=for-the-badge&logo=swift)&nbsp;
@@ -7,6 +12,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=239120)&nbsp;   
 ![Firebase](https://img.shields.io/badge/firebase-05122A?style=for-the-badge&logo=firebase&logoColor=yellow)&nbsp;
 ![Azure](https://img.shields.io/badge/-azure-05122A?style=for-the-badge&logo=microsoft)&nbsp;
+![Fastlane](https://img.shields.io/badge/-fastlane-05122A?style=for-the-badge&logo=fastlane)&nbsp;
+![Jenkins](https://img.shields.io/badge/-jenkins-05122A?style=for-the-badge&logo=jenkins)&nbsp;
 
 <hr class="dotted">
 
