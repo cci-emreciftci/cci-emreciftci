@@ -22,8 +22,8 @@
 ### 📊 Analytics
 <p align="center">
 <a href="https://github.com/emrcftci">
-  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=emrcftci&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="emrcftci"/>
-  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emrcftci&show_icons=true&locale=en&layout=compact&theme=algolia" alt="emrcftci"/>
+  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=cci-emreciftci&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="cci-emreciftci"/>
+  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cci-emreciftci&show_icons=true&locale=en&layout=compact&theme=algolia" alt="cci-emreciftci"/>
 </a>
 </p>
 
